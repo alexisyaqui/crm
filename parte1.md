@@ -28,3 +28,15 @@ parte 2:
 =>registro de usuarios desde la interfaz de frontend
 =>inicio de session desde la interfaz de fronted
 =>cerrar session desde la interfaz de frontend
+
+
+parte 3:
+
+=> implementacion del loader con bulma
+=>crear apliacion en django leads
+=>crear la base de datos de leads
+=> serializar los leads en django
+=>crear las vistas de los leads en django
+=> configurar los leads en django
+=> crear las paginas CRUD
+=> agregar los clientes desde el frontend hacia la base de datos.

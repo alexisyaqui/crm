@@ -2,9 +2,11 @@
   <div>
     <NavBar />
 
-    <section class="section">
-      <router-view />
-    </section>
+    <div class="is-loading-bar has--text-centered" v-bind:class={'v-bind:class="{'is-loading': $store.state.isLoading}">
+
+    </div>
+
+
   </div>
 </template>
 
